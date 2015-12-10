@@ -1,0 +1,13 @@
+{
+    "name": "Exam",
+    "description": "Exam for Administrator",
+    "author": "m4ch1n3",
+    "url": "https://github.com/m4ch1n3",
+    "version": "1.0.0",
+    "config": {
+        "handles": "exam"
+    },
+    "provides": [
+        "\\Bluschool\\Exam\\ExamServiceProvider"
+    ]
+}
